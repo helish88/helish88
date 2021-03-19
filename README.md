@@ -1,5 +1,5 @@
 ## Hey 👋, This is helish_88
-[![Github Badge](https://img.shields.io/badge/-helish88-grey?style=flat&logo=github&logoColor=white&link=https://github.com/helish88/)](https://www.github.com/helish88/) <p align='left'>Создатель helish bot</p>
+[![Github Badge](https://img.shields.io/badge/-helish88-grey?style=flat&logo=github&logoColor=white&link=https://github.com/helish88/)](https://www.github.com/helish88/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=helish88 alt=helish88 /> </p>
 
