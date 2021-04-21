@@ -5,6 +5,9 @@
 
 [![helish88's GitHub stats](https://github-readme-stats.vercel.app/api?username=helish88&show_icons=true&theme=tokyonight)</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helish88&layout=compact)](https://github.com/helish88/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helish88&layout=compact)](https://github.com/helish88/github-readme-stats)</br>
 
-[![helish88's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=helish88)](https://github.com/helish88/github-readme-stats)
+## My Wakatime Stats ⌚
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="@helish88&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@helish88&compact=True"/>
+</a>
